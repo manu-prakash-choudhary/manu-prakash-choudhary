@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        a:link {
+            color: rgb(180, 135, 135);
+            background-color: transparent;
+            text-decoration: none;
+        }
+    </style>
+    <title>Pyhton programs</title>
+</head>
+<h1 style="background-color: cyan; font-style: italic; text-align: center; font-size: xx-large;">Python programs</h1>
+
+<br>
+<br>
+<a href="C:\Users\Rohini Choudhary\html stuff\login.html" target="_blank" style="font: bolder; font-size: x-large;">
+    <div style="position: absolute; left:1250px ; "> Log in </div>
+</a>
+<br>
+
+<textarea style="text-align: center;  font: bold ; background-color:cadetblue; font-size: 22px;" rows="10" cols="50">  Hey, you are heartly welcomed to this page. This page is all about small python programs. Any suggestion if you have can mail me at choudharymanu148@gmail.com</textarea>
+<br>
+<br><br>
+
+<body bgcolor="coral" style="color:black;">
+    <table style="width: fit-content; font-style: inherit; border: hotpink; margin-left: auto; margin-right: auto; ">
+        <tr>
+            <th style="font-size:40px;">Content</th>
+            <td><br><br><br></td>
+        </tr>
+        <tr>
+            <th>
+                <a href="C:\Users\Rohini Choudhary\html stuff\factorial.html" target="_blank"> Factorial recursively</a>
+            </th>
+            <td> <br> <br></td>
+        </tr>
+        <tr>
+            <th>
+                <a href="C:\Users\Rohini Choudhary\html stuff\pattern.html" target="_blank">Printing a pattern</a> </th>
+            <td> <br> <br><br></td>
+        </tr>
+        <tr>
+            <th>
+                <a href="C:\Users\Rohini Choudhary\html stuff\fabionacci.html" target="_blank">Fabionacci series</a> </th>
+            <td> <br> <br></td>
+        </tr>
+        <tr>
+            <th>
+                <a href="C:\Users\Rohini Choudhary\html stuff\starpattern.html" target="_blank">Star pattern</a> </th>
+            <td> <br><br><br> </td>
+        </tr>
+        <tr>
+            <th>
+                <a href="C:\Users\Rohini Choudhary\html stuff\bubble sort.html" target="_blank">Bubble sort</a> </th>
+            <td> <br><br> </td>
+        </tr>
+        <tr>
+            <th>
+                <a href="C:\Users\Rohini Choudhary\html stuff\bargraph.html" target="_blank">Bar graph</a> </th>
+            <td> <br> <br> <br> </td>
+        </tr>
+
+    </table>
+    <br><br><br><br><br><br><br>
+    <a href="C:\Users\Rohini Choudhary\html stuff\myprofile.html" target="_blank" style="font-size: x-large;">
+      My profile
+        <br><br><br>
+    </a>
+
+</body>
+
+</html>
