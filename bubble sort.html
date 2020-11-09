@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>buble sorting</title>
+    <h1>Bubble Sort</h1>
+</head>
+
+<body style="font: bolder;" bgcolor="brown">
+    x = int(input('ent no of elements-->')) <br> a = [] <br> print('enter no one after anoter') <br> for k in range(x): <br> &ensp; a.append(int(input())) <br> # repeating loop len(a)(number of elements) number of times <br> for j in range(len(a)): <br>    &ensp; # initially swapped is false <br> &ensp; swapped = False <br> &ensp; i = 0 <br> &ensp; while i
+    < len(a)-1:<br> &ensp; &ensp; # comparing the adjacent elements <br> &ensp; &ensp; if a[i] > a[i+1]: <br> &ensp; &ensp; &ensp; # swapping <br> &ensp; &ensp; &ensp; a[i], a[i+1] = a[i+1], a[i] <br> &ensp; &ensp; &ensp; # Changing the value of swapped <br> &ensp; &ensp;
+        &ensp; swapped = True <br> &ensp; &ensp; i = i+1 <br> &ensp; &ensp; # if swapped is false then the list is sorted <br> &ensp; &ensp; # we can stop the loop <br> &ensp; if swapped == False: <br> &ensp; &ensp; break <br> print('sorted elements are
+        -:') for i in a: <br> &ensp; print(i)
+
+</body>
+
+</html>
