@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>power set calculator</title>
+    <h1 style="color: crimson; font-style: italic;">Power set calculator</h1>
+</head>
+
+<body bgcolor="#BEBEBE" style="font-style: italic;">
+
+    <p>
+        from itertools import combinations <br> seta = [] <br> <br> <br> def powerset(string): <br> &nbsp; &nbsp; for i in range(1, len(string) + 1): <br> &nbsp; &nbsp; &nbsp;&nbsp; for element in combinations(string, i): <br> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        a = ''.join(element) <br> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; seta.append(a) <br> <br> string = {'a', 'b', 'c'} <br> powerset(string) <br> print(set(seta)) <br>
+
+    </p>
+</body>
+
+</html>
