@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Binary search</title>
+</head>
+
+<body style="font: bolder;" bgcolor="brown">
+    def binarysearch(arr,i,r,c): <br> &ensp; &ensp; mid=(r+i)//2 <br> &ensp;&ensp; global t <br> &ensp;&ensp; if i>r: <br> &ensp;&ensp; t=1 <br> &ensp;&ensp; &ensp;&ensp; if arr[mid]==c: <br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; return mid <br> &ensp;&ensp;&ensp;&ensp;
+    elif c>arr[mid]: <br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; return binarysearch(arr,mid+1,r,c) <br> &ensp;&ensp;&ensp;&ensp; elif c
+    <arr[mid]: <br> &ensp;&ensp;&ensp;&ensp; return binarysearch(arr,i,mid-1,c) <br> &ensp;&ensp; else: <br> &ensp;&ensp;&ensp;&ensp; t=0 <br> &ensp;&ensp;&ensp;&ensp; print('word not found') <br> #_main_ <br> print('enter your numbes with space between them') <br> list1=input().split()
+        <br> arr=[] <br> for i in list1: <br> &ensp;&ensp; arr.append(int(i)) <br> arr.sort() <br> i=0 <br> r=len(arr)-1 <br> c=int(input("enter your no. to search")) <br> a=binarysearch(arr,i,r,c) <br> if t==1: <br> &ensp;&ensp; print(c,'is present at
+        index',a)
+</body>
+
+</html>
