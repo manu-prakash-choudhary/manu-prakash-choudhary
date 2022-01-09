@@ -1,4 +1,4 @@
-# HTML-stuff
-about small python programs for beginners
+# ML enthusiast
+Python || Javascript || Html || Css || Machine learning 
 
-https://manu-prakash-choudhary.github.io/manu-prakash-choudhary/ link for the html page
+
