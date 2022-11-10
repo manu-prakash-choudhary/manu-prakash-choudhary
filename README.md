@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Manu Prakash Choudhary</h1>
+<h1 align="center">Hola, Manu Prakash here</h1>
 <h3 align="center">CSE Sophomore Student VIT, Bhopal. Learning is forever.📚</h3>
 
 
