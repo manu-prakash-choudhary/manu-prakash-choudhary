@@ -1,9 +1,9 @@
 <h1 align="center">Hola, Manu Prakash here</h1>
-<h3 align="center">CSE Final year Student VIT, Bhopal. Learning is forever.📚</h3>
+<h3 align="center">CSE in AIML from VIT, Bhopal. Learning is forever.📚</h3>
 
 
 
-- 📫 How to reach me **manu.prakash2020@vitbhopal.ac.in**
+- 📫 How to reach me **choudharymanu148@gmail.com**
 
 - ⚡ Fun fact **I believe what I see**
 
