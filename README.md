@@ -1,8 +1,8 @@
 <h1 align="center">Hola, Manu Prakash here</h1>
-<h3 align="center">CSE in AIML from VIT, Bhopal. Learning is forever.📚</h3>
+<h3 align="center"> Make Your Brain like a Machine and Machine like a brain.📚</h3>
 
 
-
+- CSE in AIML.
 - 📫 How to reach me **choudharymanu148@gmail.com**
 
 - ⚡ Fun fact **I believe what I see**
